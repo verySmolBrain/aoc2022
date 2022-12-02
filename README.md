@@ -1,0 +1,1 @@
+My attempt at 2022 aoc in Rust
