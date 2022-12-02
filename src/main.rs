@@ -39,6 +39,6 @@ fn main() {
 }
 
 fn read_input(day: &str) -> String {
-    let path = format!("data/day{}.txt", day);
-    fs::read_to_string(path).expect("Failed to read input file")
+    let path = format!("src/data/day{}.txt", day);
+    fs::read_to_string(path).expect("Unable to read file")
 }
