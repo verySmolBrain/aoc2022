@@ -11,7 +11,7 @@ fn main() {
     match day.as_str() {
         "1" => day1::run(read_input(&day)),
         "2" => day2::run(read_input(&day)),
-        // "3" => day3::run(read_input(&day)),
+        "3" => day3::run(read_input(&day)),
         // "4" => day4::run(read_input(&day)),
         // "5" => day5::run(read_input(&day)),
         // "6" => day6::run(read_input(&day)),
