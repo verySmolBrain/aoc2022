@@ -19,7 +19,7 @@ fn main() {
         "8" => day8::run(read_input(&day)),
         "9" => day9::run(read_input(&day)),
         "10" => day10::run(read_input(&day)),
-        // "11" => day11::run(read_input(&day)),
+        "11" => day11::run(read_input(&day)),
         // "12" => day12::run(read_input(&day)),
         // "13" => day13::run(read_input(&day)),
         // "14" => day14::run(read_input(&day)),
