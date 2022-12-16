@@ -1,1 +1,3 @@
-My attempt at 2022 aoc in Rust
+2022 AoC in Rust.
+
+Update: Died at Day 16 ;-;
