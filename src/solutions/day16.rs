@@ -12,5 +12,9 @@ fn part1(input: &str) -> u32 {
     let dp: Vec<Vec<Option<usize>>> = vec![vec![None; TIME_LIMIT]; TIME_LIMIT];
     let graph: HashSet<(Vec<&str>, u32)> = HashSet::new();
 
+    for line in input.lines() {
+        
+    }
+
     0
 }
